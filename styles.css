@@ -3,13 +3,13 @@ body{
 }
 
 button{
-    background-color: black;
+    background-color: rgb(255, 173, 212);
     padding: 10px;
     border: 2px solid white;
     border-radius: 4px;
     height: 30px;
     width: 80px;
-    color: purple;
+    color: rgb(227, 104, 196);
     font-size: 5px;
     cursor: pointer;
 }
